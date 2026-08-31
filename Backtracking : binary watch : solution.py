@@ -1,5 +1,5 @@
 # Promblem - binary search 
-# Approach - greedy 
+# Approach - greedy + brute force + bit manipulation 
 # Time and space complexity - 0(1) & 0(1) 
 # Leetcode and diffculty level - 401 & easy
 class Solution {
